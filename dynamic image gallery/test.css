@@ -1,0 +1,6 @@
+div#container img {
+    transition: 1s;
+    margin: 15px;
+    height: 250px;
+    width: 300px;
+}
